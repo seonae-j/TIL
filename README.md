@@ -2,7 +2,7 @@
 
 ## Categories
 ### Cloud Computing
-- [AWS](
+- [AWS](https://github.com/seonae-j/TIL/blob/main/README.md#aws)
 - Docker
 - Kubernetes
 
