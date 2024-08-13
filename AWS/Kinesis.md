@@ -1,10 +1,1 @@
-- **Amazon Kinesis Data Firehose**
-    - 데이터 전송 스트림
-        - 데이터를 실시간으로 [S3(Simple Storage Service)](https://www.notion.so/S3-Simple-Storage-Service-439ece538235409e90db20bd4ab2d612?pvs=21), [Redshift](https://www.notion.so/Redshift-4b5b806904a44e71b2e1240519c0267f?pvs=21),
-- **Amazon Kinesis Data Analytics**
-    - 실시간 데이터 분석
-        - SQL을 사용하여 실시간으로 스트리밍 데이터를 분석할 수 있는 서비스
-    - 애플리케이션
-        - 데이터 스트림에 대한 실시간 처리를 수행하며, 데이터 필터링, 집계, 변환 및 기타 처리 작업을 실행한다.
-    - 통합
-        - [**Amazon Kinesis Data Streams**](https://www.notion.so/Amazon-Kinesis-Data-Streams-96f7f53b22ea4ae8b3dcb49d17c23092?pvs=21) 및 [**Amazon Kinesis Data Firehose**](https://www.notion.so/Amazon-Kinesis-Data-Firehose-e0415e5a348e4da58bf786a3e61d4ac0?pvs=21) 와 통합되어 실시간 분석 결과를 다른 AWS 서비스로 전송할 수 있다.
+
