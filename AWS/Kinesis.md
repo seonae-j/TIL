@@ -24,24 +24,24 @@
         - 데이터를 스트림으로 전송하는 애플리케이션이나 서비스이다
     - 컨슈머
         - 스트림에서 데이터를 읽어들이는 애플리케이션이나 서비스
-        - [Lambda](), [Amazon Kinesis Data Firehose]() 등을 사용할 수 있다.
+        - Lambda, Amazon Kinesis Data Firehose 등을 사용할 수 있다.
 - **Amazon Kinesis Data Firehose**
     - 데이터 전송 스트림
-        - 데이터를 실시간으로 [S3(Simple Storage Service)](), [Redshift](),
+        - 데이터를 실시간으로 S3(Simple Storage Service, Redshift,
 - **Amazon Kinesis Data Analytics**
     - 실시간 데이터 분석
         - SQL을 사용하여 실시간으로 스트리밍 데이터를 분석할 수 있는 서비스
     - 애플리케이션
         - 데이터 스트림에 대한 실시간 처리를 수행하며, 데이터 필터링, 집계, 변환 및 기타 처리 작업을 실행한다.
     - 통합
-        - [Amazon Kinesis Data Streams]() 및 [Amazon Kinesis Data Firehose]() 와 통합되어 실시간 분석 결과를 다른 AWS 서비스로 전송할 수 있다.
+        - Amazon Kinesis Data Streams 및 Amazon Kinesis Data Firehose 와 통합되어 실시간 분석 결과를 다른 AWS 서비스로 전송할 수 있다.
 - **Amazon Kinesis Video Streams**
     - 비디오 스트리밍
         - 실시간 비디오 데이터를 수집, 처리 및 저장할 수 있는 서비스이다.
     - 비디오 스트림 관리
         - 보안, 안정성, 확장성을 제공하며, 실시간 및 온디맨드 스트리밍을 지원한다.
     - 애플리케이션 통합
-        - 비디오 데이터를 분석하고 처리하기 위해 [Amazon Rekognition]() **Video**, [Lambda](), [Amazon SageMaker]() 등을 사용할 수 있다.
+        - 비디오 데이터를 분석하고 처리하기 위해 Amazon Rekognition Video, Lambda, Amazon SageMaker 등을 사용할 수 있다.
 
 ### 사용 사례
 
