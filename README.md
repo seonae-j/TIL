@@ -25,7 +25,7 @@
 
 ### AWS
 - 관리 및 거버넌스
-  - [AWS Auto Scaling](https://github.com/seonae-j/TIL/blob/main/AWS/AWS%20Auto%20Scaling)
+  - [AWS Auto Scaling](https://github.com/seonae-j/TIL/blob/main/AWS/AWS%20Auto%20Scaling.md)
 
 - 분석
   - [Kinesis](https://github.com/seonae-j/TIL/blob/main/AWS/Kinesis.md)
