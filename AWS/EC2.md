@@ -33,7 +33,7 @@
     4. 전용 호스트(Dedicated Hosts)
         1. 물리적으로 격리된 서버를 사용할 수 있어, 라이선스 요구사항이나 보안 규정을 준수해야 하는 경우에 적합하다.
 - **자동화 및 관리 도구**
-    - [CLI(Command Line Interface)](https://www.notion.so/CLI-Command-Line-Interface-28a6950d1bac4df6b45a94fd293a02ed?pvs=21), [[Amazon Chime SDK](https://us-east-1.console.aws.amazon.com/chime-sdk/home?region=us-east-1)](https://www.notion.so/Amazon-Chime-SDK-ad331a3a698c4c018563cc209dcf463c?pvs=21), [[CloudFormation](https://us-east-1.console.aws.amazon.com/cloudformation/home?region=us-east-1)](https://www.notion.so/CloudFormation-5f8718244efb4180ac0fe339de61ee3f?pvs=21) 등 다양한 도구와 통합되어 있어, 인프라 관리를 자동화할 수 있다.
+    - [CLI(Command Line Interface)](https://www.notion.so/CLI-Command-Line-Interface-28a6950d1bac4df6b45a94fd293a02ed?pvs=21), [Amazon Chime SDK](https://www.notion.so/Amazon-Chime-SDK-ad331a3a698c4c018563cc209dcf463c?pvs=21), [CloudFormation](https://www.notion.so/CloudFormation-5f8718244efb4180ac0fe339de61ee3f?pvs=21) 등 다양한 도구와 통합되어 있어, 인프라 관리를 자동화할 수 있다.
     - 이를 통해 인스턴스 배포, 관리, 모니터링 작업을 효율적으로 진행할 수 있다.
 - **스토리지 옵션**
     - [EBS(Elastic Block Store)](https://www.notion.so/EBS-Elastic-Block-Store-42486c1879b34fee8b07531c2a0775c4?pvs=21)
