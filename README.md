@@ -22,7 +22,7 @@
 <br>
 
 ### IT Dict
-- [Dictionary](https://github.com/seonae-j/TIL/tree/main/Dictionary)
+- [Dictionary](https://github.com/seonae-j/TIL/blob/main/Dictionary/IT.md)
 
 ---
 
