@@ -24,4 +24,8 @@
 ---
 
 ### AWS
-- [Kinesis](https://github.com/seonae-j/TIL/blob/main/AWS/Kinesis.md)
+- 관리 및 거버넌스
+  - [AWS Auto Scaling]()
+
+- 분석
+  - [Kinesis](https://github.com/seonae-j/TIL/blob/main/AWS/Kinesis.md)
