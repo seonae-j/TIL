@@ -24,6 +24,9 @@
 ---
 
 ### AWS
+- 컴퓨팅
+  - [EC2]()
+
 - 관리 및 거버넌스
   - [AWS Auto Scaling](https://github.com/seonae-j/TIL/blob/main/AWS/AWS%20Auto%20Scaling.md)
 
