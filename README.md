@@ -1,4 +1,4 @@
-# Today I Learned
+# [Today I Learned](https://github.com/seonae-j/TIL/discussions)
 
 ## Categories
 ### Cloud Computing
