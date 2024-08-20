@@ -2,3 +2,4 @@
 
 ### AWS
 - SQS(Simple Queue Service)
+- CloudTrail
