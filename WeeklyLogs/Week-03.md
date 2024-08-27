@@ -2,5 +2,6 @@
 
 ### AWS
 - DataSync
+- S3 Glacier 
 
 ---
