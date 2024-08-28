@@ -2,7 +2,8 @@
 
 ### AWS
 - DataSync
-- S3 Glacier 
+- S3 Glacier
+- Amaozn EKS(Elastic Kubernetes Service)
 
 ---
 
