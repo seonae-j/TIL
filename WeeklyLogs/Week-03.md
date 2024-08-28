@@ -12,3 +12,9 @@
 **[java]**
 - 논리 연산자
 - 비트 연산자
+
+---
+
+### Front-end
+**[javascript]**
+- 변수(variable)
