@@ -6,6 +6,6 @@
 
 ---
 
-### Back-end
+### Programming language
 **[java]**
 - 논리 연산자
