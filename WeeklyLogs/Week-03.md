@@ -4,6 +4,7 @@
 - DataSync
 - S3 Glacier
 - Amaozn EKS(Elastic Kubernetes Service)
+  - Container Orchestration Tool
 - Cloud9 (EOS)
 
 ---
